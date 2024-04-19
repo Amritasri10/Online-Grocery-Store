@@ -13,9 +13,9 @@ RDBMS (Relational Database Management System) – Web Application
 
 ## Project Modules:
 - ### Customer Module
-      Customer can register them and need to login and purchase the vegetables, groceries through local store and do the payments through credit, debit and other applications
+  Customer can register them and need to login and purchase the vegetables, groceries through local store and do the payments through credit, debit and other applications
 - ### Admin Module
-      Admin needs to login and can add, update, display and delete the vegetables and groceries and can add user. Admin can view the feedback given by the user.
+  Admin needs to login and can add, update, display and delete the vegetables and groceries and can add user. Admin can view the feedback given by the user.
 - ### Dashboard module:
       This module is for administrator and employees. The administrator is the main user of the system. The administrator has full authority of the website. Only admin can 
       configure settings of the website and master data records. 
